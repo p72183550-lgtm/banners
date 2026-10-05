@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="177" viewBox="0 0 940 177">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b276b"/><stop offset=".48" stop-color="#3446d6"/><stop offset="1" stop-color="#171d5c"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#b7c8ff"/><stop offset=".4" stop-color="#596eff"/><stop offset="1" stop-color="#7c8cff"/></linearGradient>
+<clipPath id="clip"><rect x="4" y="4" width="932" height="169" rx="30"/></clipPath>
+<filter id="shadow"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#111a55" flood-opacity=".35"/></filter>
+</defs>
+<rect x="4" y="4" width="932" height="169" rx="30" fill="url(#bg)" stroke="url(#rim)" stroke-width="4" filter="url(#shadow)"/>
+<g clip-path="url(#clip)">
+<path d="M105-25C230 15 260 85 425 210H565C430 110 405 25 300-25Z" fill="#667cff" opacity=".25"/>
+<path d="M360-25C475 15 515 82 650 205H735C635 105 610 25 530-25Z" fill="#8b99ff" opacity=".18"/>
+<path d="M-40 125C70 55 130 35 235-25H305C205 55 145 120 70 205H-40Z" fill="#111952" opacity=".32"/>
+<path d="M610 200C720 115 790 75 970 30V190Z" fill="#10174f" opacity=".30"/>
+</g>
+<path d="M77 36L99 29L121 36V56C121 72 111 83 99 89C87 83 77 72 77 56Z" fill="#fff"/>
+<path d="M88 56L96 64L110 48" fill="none" stroke="#3045c9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="138" y="75" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="800" letter-spacing="1.2" fill="#fff">Главный Следящий</text>
+</svg>
